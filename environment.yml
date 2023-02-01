@@ -1,0 +1,15 @@
+name: vanos
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - scikit-image
+  - scikit-learn
+  - matplotlib
+  - napari
+  - pandas
+  - seaborn
+  - pip
+  - jupyterlab=3.*
+  - pip:
+    - microfilm
