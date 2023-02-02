@@ -14,7 +14,7 @@ This software has been developed in collaboration with Lisette van Os from the g
 
 To use this software, create a conda environment with the [environment.yml](environment.yml) file:
 
-    conda create env -f environment.yml
+    conda env create -f environment.yml
 
 and then install with:
 
