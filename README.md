@@ -8,7 +8,7 @@ Package to estimate diffusion of cells in microfluidics devices
 
 This is a software packaged used to quantify cell migration in microfluidics devices in van Os et al. XXX. It is not meant to be a general purpose software and no support is guaranteed for it.
 
-This software has been developed in collaboration with Lisette van Os from the group of Prof. Oliver Guénat at ARTORG, University of Bern.
+This software has been developed in collaboration with Lisette van Os from the group of Prof. Oliver T. Guenat at ARTORG, University of Bern.
 
 ## Installation
 
